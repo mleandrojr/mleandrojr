@@ -1,4 +1,9 @@
 ## Hello World!
+
+![snake gif](https://github.com/mleandrojr/mleandrojr/blob/output/github-contribution-grid-snake-dark.svg)
+
+##
+
 <div align="center">
   <img align="center" alt="" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -9,10 +14,6 @@
   <img align="center" alt="" title="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="" title="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 </div>
-
-##
-
-![snake gif](https://github.com/mleandrojr/mleandrojr/blob/output/github-contribution-grid-snake-dark.svg)
 
 ##
 

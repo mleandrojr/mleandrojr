@@ -45,7 +45,7 @@
 
  - 🌱 I have a project to develop applications in a sustainable way.
 
- - 🧭 I don't know why, but I love working with coordinates. I even have [a game](https://whereintheworld.app) about it!
+ - 🧭 I don't know why, but I love working with coordinates. I even have [an app](https://play.google.com/store/apps/details?id=br.com.yggdrasill.longship) and [a game](https://whereintheworld.app) about it!
  - 🌐 Not just a dev, I'm a traveler too! I love to go to random places and meet new people. You can see me in action in my [Youtube Channel](https://www.youtube.com/@boradargas/) (in portuguese).
 
   - 🎮 I love old games, and like to play it with my brother.

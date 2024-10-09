@@ -33,7 +33,7 @@
 &nbsp;
 
 ### ... and I did a lot of cool things.
-[![Look at my badges](https://holopin.me/mleandrojr)](https://holopin.io/@mleandrojr)
+[![An image of @mleandrojr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mleandrojr)](https://holopin.io/@mleandrojr)
 #### Did you see my dinosaur there? (You didn't, because it's a dragon)
 
 &nbsp;

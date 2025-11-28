@@ -40,6 +40,28 @@
 
 ### Sometimes I like to write something
 <!-- recent-prosa-dev-articles start -->
+<table style="margin-left:auto; margin-right:auto">
+<tr>
+<td style="text-align:center; padding:12px"><div style="width:100%; margin-top:6px; font-weight:600"><img src="https://assets.prosa.dev/uploads/articles/mleandrojr/o-windows-95-esta-fazendo-30-anos/images/cover.jpg" alt="O Windows 95 Está Fazendo 30 Anos" style="width:300px; aspect-ratio:16/9; max-width:100%; border-radius:4px;" /></div><div><h4><a href="https://prosa.dev/article/o-windows-95-esta-fazendo-30-anos">O Windows 95 Está Fazendo 30 Anos</a></h4></div>
+<td style="text-align:center; padding:12px"><div style="width:100%; margin-top:6px; font-weight:600"><img src="https://assets.prosa.dev/uploads/articles/mleandrojr/desmistificando-uma-bomba/images/cover.jpg" alt="Desmistificando uma Bomba" style="width:300px; aspect-ratio:16/9; max-width:100%; border-radius:4px;" /></div><div><h4><a href="https://prosa.dev/article/desmistificando-uma-bomba">Desmistificando uma Bomba</a></h4></div>
+</tr>
+<tr>
+<td style="text-align:center; padding:12px"><div style="width:100%; margin-top:6px; font-weight:600"><img src="https://assets.prosa.dev/uploads/articles/mleandrojr/os-novos-artigos-ficarao-bem-bonitos/images/cover.jpg" alt="Os Novos Artigos Ficarão Bem Bonitos" style="width:300px; aspect-ratio:16/9; max-width:100%; border-radius:4px;" /></div><div><h4><a href="https://prosa.dev/article/os-novos-artigos-ficarao-bem-bonitos">Os Novos Artigos Ficarão Bem Bonitos</a></h4></div>
+<td style="text-align:center; padding:12px"><div style="width:100%; margin-top:6px; font-weight:600"><img src="https://assets.prosa.dev/uploads/articles/mleandrojr/preciso-escrever-mais-aqui/images/preciso-escrever-mais-aqui.jpg" alt="Preciso escrever mais aqui" style="width:300px; aspect-ratio:16/9; max-width:100%; border-radius:4px;" /></div><div><h4><a href="https://prosa.dev/article/preciso-escrever-mais-aqui">Preciso escrever mais aqui</a></h4></div>
+</tr>
+<tr>
+<td style="text-align:center; padding:12px"><div style="width:100%; margin-top:6px; font-weight:600"><img src="https://assets.prosa.dev/uploads/articles/mleandrojr/que-futuro-incrivel-foi-o-passado/images/cover.jpg" alt="Que Futuro Incrível Foi o Passado!" style="width:300px; aspect-ratio:16/9; max-width:100%; border-radius:4px;" /></div><div><h4><a href="https://prosa.dev/article/que-futuro-incrivel-foi-o-passado">Que Futuro Incrível Foi o Passado!</a></h4></div>
+<td style="text-align:center; padding:12px"><div style="width:100%; margin-top:6px; font-weight:600"><img src="https://assets.prosa.dev/uploads/articles/mleandrojr/minha-primeira-nao-experiencia-com-o-linux/images/cover.jpg" alt="Minha Primeira Não Experiência com o Linux" style="width:300px; aspect-ratio:16/9; max-width:100%; border-radius:4px;" /></div><div><h4><a href="https://prosa.dev/article/minha-primeira-nao-experiencia-com-o-linux">Minha Primeira Não Experiência com o Linux</a></h4></div>
+</tr>
+<tr>
+<td style="text-align:center; padding:12px"><div style="width:100%; margin-top:6px; font-weight:600"><img src="https://assets.prosa.dev/uploads/articles/mleandrojr/icomp-index-435/images/cover.jpg" alt="iCOMP™ index=435" style="width:300px; aspect-ratio:16/9; max-width:100%; border-radius:4px;" /></div><div><h4><a href="https://prosa.dev/article/icomp-index-435">iCOMP™ index=435</a></h4></div>
+<td style="text-align:center; padding:12px"><div style="width:100%; margin-top:6px; font-weight:600"><img src="https://assets.prosa.dev/uploads/articles/mleandrojr/o-windows-xp-esta-fazendo-20-anos/images/cover.jpg" alt="O Windows XP Está Fazendo 20 Anos" style="width:300px; aspect-ratio:16/9; max-width:100%; border-radius:4px;" /></div><div><h4><a href="https://prosa.dev/article/o-windows-xp-esta-fazendo-20-anos">O Windows XP Está Fazendo 20 Anos</a></h4></div>
+</tr>
+<tr>
+<td style="text-align:center; padding:12px"><div style="width:100%; margin-top:6px; font-weight:600"><img src="https://assets.prosa.dev/uploads/articles/mleandrojr/eu-resolvi-me-desintoxicar/images/cover.png" alt="Eu Resolvi Me Desintoxicar" style="width:300px; aspect-ratio:16/9; max-width:100%; border-radius:4px;" /></div><div><h4><a href="https://prosa.dev/article/eu-resolvi-me-desintoxicar">Eu Resolvi Me Desintoxicar</a></h4></div>
+<td style="text-align:center; padding:12px"><div style="width:100%; margin-top:6px; font-weight:600"><img src="https://assets.prosa.dev/uploads/articles/mleandrojr/um-dedo-de-prosa/images/cover.jpg" alt="Um Dedo de Prosa" style="width:300px; aspect-ratio:16/9; max-width:100%; border-radius:4px;" /></div><div><h4><a href="https://prosa.dev/article/um-dedo-de-prosa">Um Dedo de Prosa</a></h4></div>
+</tr>
+</table>
 <!-- recent-prosa-dev-articles end -->
 
 &nbsp;

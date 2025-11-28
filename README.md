@@ -9,8 +9,8 @@
 ### These are my stats:
 <div align="center">
   <a href="https://github.com/mleandrojr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mleandrojr&show_icons=true&theme=onedark&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mleandrojr&layout=compact&langs_count=10&theme=onedark">
+    <img height="180em" src="https://github-readme-stats-lime-kappa.vercel.app/api?username=mleandrojr&show_icons=true&theme=onedark&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats-lime-kappa.vercel.app/api/top-langs/?username=mleandrojr&layout=compact&langs_count=10&theme=onedark">
   </a>
 </div>
 
@@ -32,9 +32,15 @@
 
 &nbsp;
 
-### ... and I did a lot of cool things.
+### ... and I did a lot of cool things
 [![An image of @mleandrojr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mleandrojr)](https://holopin.io/@mleandrojr)
 #### Did you see my dinosaur there? (You didn't, because it's a dragon)
+
+&nbsp;
+
+### Sometimes I like to write something
+<!-- recent-prosa-dev-articles start -->
+<!-- recent-prosa-dev-articles end -->
 
 &nbsp;
 
@@ -63,4 +69,4 @@
 
 &nbsp;
 
-### And last but not least, all the GitHub stuff.
+### And last but not least, all the GitHub stuff

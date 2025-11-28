@@ -47,7 +47,7 @@ def create_articles_markdown(articles):
 
 def cell(article, articles, i):
     img = f'<img src="{article["cover"]}" alt="{article["title"]}" style="width:300px; aspect-ratio:16/9; max-width:100%; border-radius:4px;" />'
-    title = f'<h4><a href="{article["link"]}">{article["title"]}</a></h4>'
+    title = f'<h4><a href="{article["link"]}" target="_blank">{article["title"]}</a></h4>'
 
     result = '<td style="text-align:center; padding:12px'
     if i % 2 == 0 and i == len(articles) - 1:

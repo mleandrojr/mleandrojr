@@ -6,7 +6,7 @@ start_mark = "<!-- recent-prosa-dev-articles start -->"
 end_mark = "<!-- recent-prosa-dev-articles end -->"
 
 def get_readme_file_content():
-    path = "../README.md"
+    path = "README.md"
     with open(path, "r", encoding="utf-8") as file:
         return file.read()
 
@@ -66,7 +66,7 @@ def main():
     start_index = readme.index(start_mark) + len(start_mark)
     end_index = readme.index(end_mark)
     new_readme = readme[:start_index] + "\n" + articles_markdown + "\n" + readme[end_index:]
-    with open("../README.md", "w", encoding="utf-8") as file:
+    with open("README.md", "w", encoding="utf-8") as file:
         file.write(new_readme)
 
 
